@@ -1,0 +1,153 @@
+body, p{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    box-sizing: content-box;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+    width: 100%;
+    height: 12vh;
+    background-color: #2B192E;
+}
+
+.header-logo {
+    width: 160px;
+    height: 160px;
+    margin: 0 0 0 24px;
+    padding-top: 10px;
+}
+
+.header-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-left: -40px;
+}
+
+.header a {
+    border: 1px solid #F5E8DA;
+    border-radius: 4px;
+    background-color: transparent;
+    margin: 0 24px 0 0;
+    padding: 8px 24px 8px 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    align-items: center;
+    text-align: center;
+    color: #F5E8DA;
+    font-weight: 600;
+    transition: ease-in-out;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+}
+
+.header a:hover {
+    background-color: #F5E8DA;
+    transform: scale(1.1);
+    color: #2B192E;
+}
+
+.feed {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    padding: 0;
+    width: 100%;
+    height: 75vh;
+    background: rgb(43,25,46);
+    background: linear-gradient(180deg, rgba(43,25,46,1) 0%, rgba(0,0,0,1) 100%);
+
+}
+
+.home-img {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    margin-left: 16px;
+}
+
+.home-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.slogan {
+    display: flex;
+    flex-direction: column;
+    margin-right: 16px;
+}
+
+.first-slogan {
+    color: #F5E8DA;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 400;
+}
+
+.second-slogan {
+    color: #F5E8DA;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+    margin: 8px 0 8px 0;
+}
+
+.third-slogan {
+    color: #F5E8DA;
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 800;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    width: 100%;
+    height: 13vh;
+}
+
+.footer p {
+    color: #F5E8DA;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+}
+
+@media screen and (min-width: 640px) {
+
+    .first-slogan {
+        font-size: 60px;
+        line-height: 1;
+    }
+
+    .second-slogan {
+        font-size: 72px;
+        line-height: 1;
+    }
+
+    .third-slogan {
+        font-size: 96px;
+        line-height: 1;
+    }
+}
