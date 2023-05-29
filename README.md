@@ -8,16 +8,16 @@ Site is LIVE on -> [https://gatnashaly.netlify.app/](https://gatnashaly.netlify.
 
 ### 1. Home Page
 
-![home](https://github.com/Charyyev17/gyzylburc-youtube-clone/assets/66562485/a24235dd-fefe-4763-84c4-ba8d86048635)
+![home](https://github.com/Charyyev17/gatnashaly-video-chat/assets/66562485/6d726940-0a37-4ab9-a0a6-d3576de7468e)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### 2. Lobby Page
 
-![channel_profile](https://github.com/Charyyev17/gyzylburc-youtube-clone/assets/66562485/6c52bcf7-dd88-4466-995e-229614d37c5b)
+![lobby](https://github.com/Charyyev17/gatnashaly-video-chat/assets/66562485/4ecf770b-e2c3-4750-9d53-0f8176350c7c)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### 3. Stream Page
 
-![search_results](https://github.com/Charyyev17/gyzylburc-youtube-clone/assets/66562485/04acbbb7-07fd-4824-b9d1-7f2be6988bbe)
+![stream](https://github.com/Charyyev17/gatnashaly-video-chat/assets/66562485/d5a42daa-5a0a-483b-b579-10c8479415b0)
