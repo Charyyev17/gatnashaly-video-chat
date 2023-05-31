@@ -110,6 +110,7 @@ main {
 
 #user-streams {
     display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(40rem, 1fr));
     gap: 0.5em;
     height: 100vh;
     width: 100%;
@@ -181,6 +182,7 @@ main {
     }
     #user-streams {
         display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         gap: 0.5em;
         height: 100vh;
         width: 100%;
