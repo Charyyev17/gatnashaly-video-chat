@@ -78,8 +78,8 @@ body, p{
 .home-img {
     display: flex;
     align-items: center;
-    width: 500px;
-    height: 500px;
+    width: 250px;
+    height: 250px;
     margin-left: 16px;
 }
 
@@ -97,22 +97,22 @@ body, p{
 
 .first-slogan {
     color: #F5E8DA;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 32px;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .second-slogan {
     color: #F5E8DA;
-    font-size: 24px;
+    font-size: 21px;
     line-height: 32px;
-    font-weight: 700;
+    font-weight: 800;
     margin: 8px 0 8px 0;
 }
 
 .third-slogan {
     color: #F5E8DA;
-    font-size: 36px;
+    font-size: 40px;
     line-height: 40px;
     font-weight: 800;
 }
@@ -137,17 +137,25 @@ body, p{
 @media screen and (min-width: 640px) {
 
     .first-slogan {
-        font-size: 60px;
+        font-size: 70px;
         line-height: 1;
     }
 
     .second-slogan {
-        font-size: 72px;
+        font-size: 80px;
         line-height: 1;
     }
 
     .third-slogan {
-        font-size: 96px;
+        font-size: 105px;
         line-height: 1;
+    }
+
+    .home-img {
+        display: flex;
+        align-items: center;
+        width: 500px;
+        height: 500px;
+        margin-left: 16px;
     }
 }
