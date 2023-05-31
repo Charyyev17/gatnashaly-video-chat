@@ -2,7 +2,7 @@
 
 Gatnashaly is a video chat app that developed by using Javascript, HTML/CSS, AgoraRTC.
 
-Site is LIVE on -> [https://gatnashaly.netlify.app/](https://gatnashaly.netlify.app/)
+Website is LIVE on -> [https://gatnashaly.netlify.app/](https://gatnashaly.netlify.app/)
 
 ## Project Content Images
 
@@ -20,4 +20,4 @@ Site is LIVE on -> [https://gatnashaly.netlify.app/](https://gatnashaly.netlify.
 
 ### 3. Stream Page
 
-![stream](https://github.com/Charyyev17/gatnashaly-video-chat/assets/66562485/d5a42daa-5a0a-483b-b579-10c8479415b0)
+![stream](https://github.com/Charyyev17/gatnashaly-video-chat/assets/66562485/05e3976c-6cd7-473e-93af-24841093bd01)
